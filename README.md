@@ -1,4 +1,4 @@
-Name
+
 Moody Music Machine
 (by Team LJS: Laura, Jeremiah, Stephanie)
 Description
